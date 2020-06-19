@@ -5,7 +5,7 @@
 void printComandos(void);
 int lerNumero(void);
 
-int main(int argc, char * args[] ) {
+int main(int argc, char * args[]) {
 
     if(argc != 3) {
         fprintf(stderr, "Quantidade de argumentos inváliada\n");
