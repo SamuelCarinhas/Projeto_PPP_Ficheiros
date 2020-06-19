@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Projeto_PPP_Ficheiros.dir/main.c.o CMakeFiles/Projeto_PPP_Ficheiros.dir/orcamentos.c.o CMakeFiles/Projeto_PPP_Ficheiros.dir/funcoes.c.o CMakeFiles/Projeto_PPP_Ficheiros.dir/despesas.c.o  -o Projeto_PPP_Ficheiros.exe -Wl,--out-implib,libProjeto_PPP_Ficheiros.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
